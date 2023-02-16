@@ -1,4 +1,3 @@
-let price = 49.99,
-    name= "Hiking Boots",
-    discount = false;
-showMessage(discount)
+let number = 123;
+    number.toString()
+showMessage(typeof number)
